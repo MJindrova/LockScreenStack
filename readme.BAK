@@ -10,8 +10,8 @@ You can use this class for managing value of property LockScreen.
 VFP 6 SP3, VFP 7, VFP 8, VFP 9, VFP Advanced, VFP Advanced 64 bit
 
 ## Files
-- lockscreenstack.PRG - main program
-- test.PRG - a little example
+lockscreenstack.PRG - main program
+test.PRG - a little example
 
 
 ## Examples
